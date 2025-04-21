@@ -1,0 +1,16 @@
+{
+    "name": "portfolio",
+    "version": "1.0.0",
+    "description": "My portfolio website",
+    "main": "main.js",
+    "scripts": {
+      "start": "live-server .",
+      "dev": "live-server ."
+    },
+    "author": "Aniket",
+    "license": "MIT",
+    "devDependencies": {
+      "live-server": "^1.2.2"
+    }
+  }
+   
